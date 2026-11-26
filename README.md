@@ -94,3 +94,10 @@ This project provided hands-on experience using Splunk Enterprise to investigate
 
 The investigation demonstrated how SIEM platforms and SPL transforming commands can be used to efficiently summarize large datasets, identify authentication trends, and support day-to-day SOC operations.
 
+Author:
+
+Adam Hunter
+
+Aspiring SOC Analyst
+
+GitHub: https://github.com/adam-hunter-6703
